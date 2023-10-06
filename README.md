@@ -18,7 +18,9 @@ Calculator APP created using Expo and React Native
 
 ## Online Demo ##
 The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
+
 [Expo CalculatorAPP DEMO](https://snack.expo.dev/@joseph_shen/calculator?platform=ios)
 
 [Screenshot]
-<img src="https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP/assets/109457795/36df71ed-aff8-4b31-a305-bb044aa31693" width="350" height="500">
+
+<img src="https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP/assets/109457795/36df71ed-aff8-4b31-a305-bb044aa31693" width="300" height="500">
